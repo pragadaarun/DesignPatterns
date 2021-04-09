@@ -1,6 +1,6 @@
 package StrategyPattern;
 
 public interface Calculator {
-    public float calculate(float a, float b);
+    public float calculation(float a, float b);
 
 }
